@@ -1,0 +1,23 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "manish": "node server.js",
+    "dev": "nodemon server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/bjmanish/NodeServer.git)"
+  },
+  "author": "manish",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "devDependencies": {}
+}
